@@ -1,0 +1,11 @@
+.addBtn{
+    float : right;
+    margin: 20px;
+}
+a{
+    color:white !important;
+    text-decoration: none !important;
+}
+.red{
+    color: red;
+}
